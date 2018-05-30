@@ -10,7 +10,7 @@
 
  - [めあとるーむ記録帳](http://maretol.hatenablog.jp/  )
    - ブログ。主に技術系のメモ
- - [めあとる日記](https://note.mu/)
+ - [めあとる日記](https://note.mu/maretol)
    - 日記。文字通りただの日記
  - [pixiv](https://www.pixiv.net/member.php?id=1279321)
    - 絵と小説をアップロードしている

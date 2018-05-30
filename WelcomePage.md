@@ -18,4 +18,13 @@
    - いわずもがな
  - [YouTube](https://www.youtube.com/channel/UCu65aVo5oUd7s9OtmzkU0qQ?view_as=subscriber)
    - たまに配信していたり？
-   
+
+## その他
+
+ - Resume
+   - 同リポジトリ内のResume.md参照（まだ書いてない）
+ - 連絡先
+   - TwitterのDMでもメールでも
+   - メールアドレスはGitHubのアカウントのもので大丈夫です
+ - 作ったもの
+   - そのうち記述する

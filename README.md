@@ -1,2 +1,2 @@
 # whoami
-when you think "who are you?", read this.
+When you think "who are you?", read this.

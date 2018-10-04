@@ -18,8 +18,6 @@
    - 絵と小説をアップロードしている
  - [Twitter](https://twitter.com/maretol)
    - いわずもがな
- - [YouTube](https://www.youtube.com/channel/UCu65aVo5oUd7s9OtmzkU0qQ?view_as=subscriber)
-   - たまに配信していたり？
 
 ## その他
 
